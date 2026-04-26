@@ -115,7 +115,7 @@ function drawTitleScreen(ctx) {
 
   // Title
   _setFont(ctx, 18, true);
-  var title = 'SUPER BOMBERMAN';
+  var title = 'BLAST GRID';
   _drawText(ctx, title, _centreX(ctx, title, W), 80, '#ffdd44', '#884400');
 
   // Stage label
